@@ -1,0 +1,13 @@
+# Entornos virtuales
+venv/
+yolov5env/
+
+# Archivos grandes innecesarios
+*.dylib
+*.so
+*.pyd
+
+# PyCache y archivos temporales
+__pycache__/
+*.py[cod]
+*.log
