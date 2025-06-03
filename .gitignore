@@ -6,8 +6,10 @@ yolov5env/
 *.dylib
 *.so
 *.pyd
+*.pyc
 
 # PyCache y archivos temporales
 __pycache__/
 *.py[cod]
 *.log
+
